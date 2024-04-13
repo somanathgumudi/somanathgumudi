@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi 👋, I'm Somanath Gumudi
+- 👨‍💻 All of my projects are available at [github.com/somanathgumudi/](https://github.com/somanathgumudi/)
 
-<!--
-**somanathgumudi/somanathgumudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    📝 I regularly write articles on https://medium.com/@somanathg238
 
-Here are some ideas to get you started:
+- 💬 Ask me about....
+**Tech 💻 system design, datastructures, databases, networking, web / app development, scaling your code to millions of requests ,**
+Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://www.linkedin.com/in/gumudi-somanath-35332a2b9/ https://medium.com/@somanathg238 https://github.com/somanathgumudi/
+Languages and Tools:
+
+android bootstrap c cplusplus css3 django flask git html5 javascript linux mysql python sqlite
+
+somanathgumudi
+
+Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff.
