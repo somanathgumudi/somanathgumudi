@@ -4,8 +4,13 @@ Hi 👋, I'm Somanath Gumudi
     📝 I regularly write articles on https://medium.com/@somanathg238
 
 - 💬 Ask me about....
+
 **Tech 💻 system design, datastructures, databases, networking, web / app development, scaling your code to millions of requests ,**
-Connect with me: https://github.com/somanathgumudi https://www.linkedin.com/in/gumudi-somanath-35332a2b9/  https://medium.com/@somanathg238 
+
+
+Connect with me: 
+
+https://github.com/somanathgumudi https://www.linkedin.com/in/gumudi-somanath-35332a2b9/  https://medium.com/@somanathg238 
 
 Somanath Gumudi https://www.linkedin.com/in/gumudi-somanath-35332a2b9/ https://medium.com/@somanathg238 https://github.com/somanathgumudi/ https://github.com/somanathgumudi/
 Languages and Tools:
