@@ -19,4 +19,4 @@ android bootstrap c cplusplus css3 django flask git html5 javascript linux mysql
 
 somanathgumudi
 
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff.
+Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stufft.
