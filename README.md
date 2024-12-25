@@ -9,7 +9,7 @@
 <p align="left">
 <a href="http://twitter.com/Gumudisomanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@somanath" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gumudi-somanath-35332a2b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gumudi-somanath-35332a2b9/" height="30" width="40" /></a>
-<a href="https://www.blogger.com/profile/09714486598148414411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
+<a href="https://medium.com/@somanathg238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 <a href="[https://medium.com/@somanathg23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@somanathg238" height="30" width="40" /></a>
 <a href="https://github.com/somanathgumudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/somanathgumudi" height="30" width="40" /></a>
 </p>
