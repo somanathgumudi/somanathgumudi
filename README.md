@@ -1,22 +1,21 @@
-Hi 👋, I'm Somanath Gumudi
-- 👨‍💻 All of my projects are available at [github.com/somanathgumudi/](https://github.com/somanathgumudi/)
+<h1 align="center">Hi 👋, I'm Gumudi Somanath</h1>
+- 👨‍💻 All of my projects are available at [github.com/somanathgumudi](github.com/somanathgumudi)
 
-    📝 I regularly write articles on https://medium.com/@somanathg238
+- 📝 I regularly write articles on [https://medium.com/@somanathg238)](https://medium.com/@somanathg238)
 
-- 💬 Ask me about....
+<h2>- 💬 Ask me about....</h2></h1> **Tech 💻 system design, datastructures, databases, networking, web / app development, scaling your code to millions of requests ,**
 
-**Tech 💻 system design, datastructures, databases, networking, web / app development, scaling your code to millions of requests ,**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="http://twitter.com/Gumudisomanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@somanath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gumudi-somanath-35332a2b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gumudi-somanath-35332a2b9/" height="30" width="40" /></a>
+<a href="https://www.blogger.com/profile/09714486598148414411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
+<a href="[https://medium.com/@somanathg23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@somanathg238" height="30" width="40" /></a>
+<a href="https://github.com/somanathgumudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/somanathgumudi" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-Connect with me: 
-
-https://github.com/somanathgumudi https://www.linkedin.com/in/gumudi-somanath-35332a2b9/  https://medium.com/@somanathg238 
-
-Somanath Gumudi https://www.linkedin.com/in/gumudi-somanath-35332a2b9/ https://medium.com/@somanathg238 https://github.com/somanathgumudi/ https://github.com/somanathgumudi/
-Languages and Tools:
-
-android bootstrap c cplusplus css3 django flask git html5 javascript linux mysql python sqlite
-
-somanathgumudi
-
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stufft.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=somanathgumudi&show_icons=true&locale=en&layout=compact" alt="somanathgumudi" /></p>
+<p>Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff.</p>
